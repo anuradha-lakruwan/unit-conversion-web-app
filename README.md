@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Initial commands
 
 ```console
-$> npx create-react-app react-unit-converter --template typescript
+$> npx create-react-app react- --template typescript
 $> npm install --save react-router-dom
 $> npm install --save bootstrap
 $> npm install react-bootstrap

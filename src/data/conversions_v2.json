@@ -1,7 +1,7 @@
 [
   {
     "category": "UnitGroup_Length",
-    "icon": "/unit-converter/img/icons8-ruler-64.png",
+    "icon": "/unit-conversion-web-app/img/icons8-ruler-64.png",
     "sort": 1,
     "slug": "length",
     "units": [
@@ -57,7 +57,7 @@
   },
   {
     "category": "UnitGroup_Temp",
-    "icon": "/unit-converter/img/icons8-temperature-64.png",
+    "icon": "/unit-conversion-web-app/img/icons8-temperature-64.png",
     "sort": 2,
     "slug": "temp",
     "units": [
@@ -83,7 +83,7 @@
   },
   {
     "category": "UnitGroup_Speed",
-    "icon": "/unit-converter/img/icons8-speed-64.png",
+    "icon": "/unit-conversion-web-app/img/icons8-speed-64.png",
     "sort": 8,
     "slug": "speed",
     "units": [
@@ -103,7 +103,7 @@
   },
   {
     "category": "UnitGroup_Time",
-    "icon": "/unit-converter/img/icons8-clock-64.png",
+    "icon": "/unit-conversion-web-app/img/icons8-clock-64.png",
     "sort": 3,
     "slug": "time",
     "units": [
@@ -147,7 +147,7 @@
   },
   {
     "category": "UnitGroup_Volume",
-    "icon": "/unit-converter/img/icons8-volume-64.png",
+    "icon": "/unit-conversion-web-app/img/icons8-volume-64.png",
     "sort": 4,
     "slug": "volume",
     "units": [
@@ -209,7 +209,7 @@
   },
   {
     "category": "UnitGroup_Angle",
-    "icon": "/unit-converter/img/icons8-trigonometry-64.png",
+    "icon": "/unit-conversion-web-app/img/icons8-trigonometry-64.png",
     "sort": 6,
     "slug": "angle",
     "units": [
@@ -229,7 +229,7 @@
   },
   {
     "category": "UnitGroup_Weight",
-    "icon": "/unit-converter/img/icons8-weight-kg-64.png",
+    "icon": "/unit-conversion-web-app/img/icons8-weight-kg-64.png",
     "sort": 5,
     "slug": "weight",
     "units": [
@@ -279,7 +279,7 @@
   },
   {
     "category": "UnitGroup_Area",
-    "icon": "/unit-converter/img/icons8-pi-64.png",
+    "icon": "/unit-conversion-web-app/img/icons8-pi-64.png",
     "sort": 7,
     "slug": "area",
     "units": [

@@ -24,7 +24,7 @@ const Header = () => {
       <button className="btn btn-default" onClick={handleClick}>
         <img
           className="d-block mx-auto mb-4"
-          src="/unit-converter/android-chrome-192x192.png"
+          src="/unit-conversion-web-app/android-chrome-192x192.png"
           alt=""
           width="72"
           height="72"
