@@ -1,7 +1,6 @@
 {
   "name": "react-unit-converter",
-  "homepage": "https://ian-hamlin.github.io/unit-converter",
-  "version": "0.1.0",
+  "homepage": "https://anuradha-lakruwan.github.io/unit-conversion-web-app", 
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
